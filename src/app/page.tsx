@@ -1,8 +1,8 @@
-"use client"
+
 
 import { useState, useEffect } from "react"
 import { format } from "date-fns"
-import { Plus, MoreVertical, ChevronRight } from "lucide-react"
+import { MoreVertical } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import TaskList from "./Components/Task-List"
 import CreateTask from "./Components/Create-Task"
